@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-image: url('/image/larm-rmah-AEaTUnvneik-unsplash\ \(1\).jpg');
+    width: 100%;
+    height: auto;
+    height: 100vh;
+    background-size: cover;
+     width: 100%;
+}
+#nav-bar{
+    background-color: rgba(0, 0,0, 0.5);
+}
+.text-bg{
+    color:rgba(241, 237, 237, 0.884);
+    margin-top: 100px;   
+}
+.blood-txt{
+    font-family: 'Monda', sans-serif;;
+}
+h1,h2,h3,h4,h5,.brand-txt,.nav-item{
+    font-family: 'Dancing Script', cursive;;
+   }
+
+.abt-img{
+    width: 300px;
+   
+}
+.abt-text{
+  
+    text-align: center;
+}
+.about-me{
+    text-align: center;
+    margin-top: 0;
+   
+}
+.abt-txt{
+
+font-size: 30px;
+text-align: center;
+
+
+
+}
+.brandImg{
+    width: 50px;
+   
+}
+.brand-txt{
+    font-weight: 900;
+   
+ 
+}
+.about{
+    background-color: #64C9CF;
+}
+#team-img{
+   
+    height: 150px;
+    width: 150px;
+}
+.social img{
+    width:30px;
+    margin:20px;
+}
+a:hover{
+text-decoration: underline;
+}
+.foot{
+    background-color: #64C9CF;
+}
+
+
+
+
+@media (max-width: 575.98px) { 
+   .navbar-brand{
+       text-align: center;
+   }
+   .brand-txt{
+       margin-right: 100px;
+   }
+   .brandImg{
+       margin-left: 100px !important;
+   }
+.cc,iframe{
+text-align: center;
+}
+iframe{
+    display: block;
+    width: 100%;
+}
+.blood-txt,.abt-text,.abt-text{
+    text-align: center;
+}
+
+.abt-txt{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ }
+
